@@ -6,7 +6,6 @@ import Test from './Test';
 function App() {
   return (
     <div className="App">
-      <h1>useEffect</h1>
       <Test />
     </div>
   );
